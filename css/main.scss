@@ -1,0 +1,528 @@
+/*! Important - these styles come from main.scss SASS file. Do not attempt to edit compiled CSS. */
+
+// Palette URL: http://paletton.com/#uid=73B0u0kvmrvfzJqo5w+AwjAPn8V */
+
+// Feel free to copy&paste color codes to your application */
+
+
+// As hex codes */
+
+$color-primary-0: #0E4B8F;	// Main Primary color */
+$color-primary-1: #729ECE;
+$color-primary-2: #346BA9;
+$color-primary-3: #073466;
+$color-primary-4: #01172E;
+
+$color-secondary-1-0: #231798;	// Main Secondary color (1) */
+$color-secondary-1-1: #837BD4;
+$color-secondary-1-2: #493FB4;
+$color-secondary-1-3: #150C6D;
+$color-secondary-1-4: #070231;
+
+$color-secondary-2-0: #DBAB04;	// Main Secondary color (2) */
+$color-secondary-2-1: #FFE383;
+$color-secondary-2-2: #FFD43F;
+$color-secondary-2-3: #9C7900;
+$color-secondary-2-4: #473700;
+
+$color-complement-0: #DB8604;	// Main Complement color */
+$color-complement-1: #FFCE83;
+$color-complement-2: #FFB33F;
+$color-complement-3: #9C5E00;
+$color-complement-4: #472B00;
+
+
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/
+*/
+
+html {
+	background-color:$color-complement-1;
+	color: $color-primary-4;
+	font-size: 1em;
+	line-height: 1.4;
+}
+
+::-moz-selection {
+	background: $color-secondary-1-0;
+	text-shadow: none;
+}
+
+::selection {
+	background: $color-secondary-1-0;
+	text-shadow: none;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid red;
+	margin: 1em 0;
+	padding: 0;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+	vertical-align: middle;
+}
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+textarea {
+	resize: vertical;
+}
+
+.browserupgrade {
+	margin: 0.2em 0;
+	background: yellow;
+	color: black;
+	padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+	Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+	========================================================================== */
+
+body {
+	font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.wrapper {
+	width: 90%;
+	margin: 0 5%;
+}
+
+.header-container {
+	border-bottom: 20px solid $color-primary-4;
+}
+
+.footer-container,
+aside {
+	border-top: 20px solid $color-primary-0;
+}
+
+.header-container,
+.footer-container,
+aside {
+	background: $color-primary-1;
+	a:link; a:hover, a:active, a:visited {
+		color:$color-secondary-1-3;
+	}
+}
+
+.title {
+	color: $color-primary-1;
+}
+
+/* ==============
+	MOBILE: Menu
+	============== */
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+nav a {
+	display: block;
+	margin-bottom: 10px;
+	padding: 3px 0;
+
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+
+	color: color-secondary-2-4;
+	background: $color-secondary-2-0;
+}
+
+nav a:link, nav a:hover,
+nav a:visited {
+	color: white !important;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+/* ==============
+	MOBILE: Main
+	============== */
+
+.main {
+	padding: 30px 0;
+}
+
+.main article h1 {
+	font-size: 2em;
+}
+
+aside {
+	color: white;
+	padding: 0px 5% 10px;
+}
+
+.footer-container footer {
+	color: white;
+	padding: 20px 0;
+}
+
+/* ===============
+	ALL: IE Fixes
+	=============== */
+
+.ie7 .title {
+	padding-top: 20px;
+}
+
+/* ==========================================================================
+	Author's custom styles
+	========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+	Media Queries
+	========================================================================== */
+
+@media only screen and (min-width: 480px) {
+
+/* ====================
+	INTERMEDIATE: Menu
+	==================== */
+
+	nav a {
+		float: left;
+		width: 15%;
+		margin: 0 1.7%;
+		padding: 25px 2%;
+		margin-bottom: 0;
+	}
+
+
+	nav li:last-child a {
+		margin-right: 0;
+	}
+
+/* ========================
+	INTERMEDIATE: IE Fixes
+	======================== */
+
+	nav ul li {
+		display: inline;
+	}
+
+	.oldie nav a {
+		margin: 0 0.7%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+
+/* ====================
+	WIDE: CSS3 Effects
+	==================== */
+
+	.header-container,
+	aside {
+		-webkit-box-shadow: 0 5px 10px #aaa;
+			-moz-box-shadow: 0 5px 10px #aaa;
+				box-shadow: 0 5px 10px #aaa;
+	}
+
+/* ============
+	WIDE: Menu
+	============ */
+
+	.title {
+		float: left;
+		width:45%;
+	}
+
+	nav {
+		float: right;
+		width: 55%;
+	}
+
+/* ============
+	WIDE: Main
+	============ */
+
+	.main article {
+		float: left;
+		width: 57%;
+	}
+
+	.main aside {
+		float: right;
+		width: 28%;
+	}
+
+
+/* ============
+	WIDE: SPECIAL
+	============ */
+
+section.half:first-child dl {
+	margin-right:20px;
+}
+
+section.half:last-child dl {
+	margin-left:20px;
+}
+
+.half {
+	width:50%;
+	float:left;
+
+}
+
+dd { 	min-height:17em;		// Hack, to try to keep items lined up side by side.
+	}
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 1140px) {
+
+/* ===============
+	Maximal Width
+	=============== */
+
+	.wrapper {
+		width: 1026px; /* 1140px - 10% for margins */
+		margin: 0 auto;
+	}
+}
+
+/* ==========================================================================
+	Helper classes
+	========================================================================== */
+
+.hidden {
+	display: none !important;
+	visibility: hidden;
+}
+
+.visuallyhidden {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1;
+}
+
+/* ==========================================================================
+	Print styles
+	========================================================================== */
+
+@media print {
+	*,
+	*:before,
+	*:after {
+		background: transparent !important;
+		color: #000 !important;
+		box-shadow: none !important;
+		text-shadow: none !important;
+	}
+
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+
+	a[href]:after {
+		content: " (" attr(href) ")";
+	}
+
+	abbr[title]:after {
+		content: " (" attr(title) ")";
+	}
+
+	a[href^="#"]:after,
+	a[href^="javascript:"]:after {
+		content: "";
+	}
+
+	pre,
+	blockquote {
+		border: 1px solid #999;
+		page-break-inside: avoid;
+	}
+
+	thead {
+		display: table-header-group;
+	}
+
+	tr,
+	img {
+		page-break-inside: avoid;
+	}
+
+	img {
+		max-width: 100% !important;
+	}
+
+	p,
+	h2,
+	h3 {
+		orphans: 3;
+		widows: 3;
+	}
+
+	h2,
+	h3 {
+		page-break-after: avoid;
+	}
+}
+
+
+
+
+
+.small { font-size:80%; }
+p.small { line-height:1.2; }
+
+	h1 { margin: 0 }
+	h1 img {
+		max-width:100%;
+	}
+
+
+
+
+
+dt {
+	font-weight:bold;
+	margin-top:1em;
+}
+
+dd {
+	margin:0;
+}
+
+dd img {
+	width:80px;
+	float:right;
+	border-radius:20px;
+	margin-left:4px;
+}
+
+.lastname {
+	text-transform:uppercase;
+	background-color:rgba(255,255,255,0.5);
+	padding:4px;
+	border-radius:4px;
+}
+
+
+p.eboard {
+	background-color:$color-secondary-2-2;
+	margin:0;
+	padding:2px 4px;
+	border-radius:6px;
+}
+
+span.eboard {
+	background-color:$color-secondary-2-2;
+	padding:3px 6px;
+	border-radius:6px;
+	text-weight:bold;
+	white-space:nowrap;
+}
+
+.half h1 {
+	color:$color-secondary-2-3;
+	text-shadow: rgba(255,255,255,0.5) 2px 2px 0px;
+}
+.half h3 {
+		color:$color-secondary-2-3;
+		font-weight:normal;
+		font-size:80%;
+		margin:0;
+}
+
+.lipsum { color:red; }
+
+.city { font-variant:small-caps; font-weight:normal; }
+
+.incidental, .incidental a { color:red; }
+
+// Make the accordion function obviou
+.accordion dt {
+	cursor: pointer;
+	&:before {
+		color:red;
+		content:"▶︎ ";
+	}
+}
+
+.accordion dt.disclosed {
+	cursor: pointer;
+	&:before {
+		content:"▼ ";
+	}
+}
+
+.platform {
+	background:$color-secondary-2-0;
+	color:$color-secondary-2-4;
+	padding:0.5em 1em 1em 1em;
+}
