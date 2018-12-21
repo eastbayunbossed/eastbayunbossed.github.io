@@ -113,6 +113,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/cheri.jpg": {
+		"ft": 16384,
+		"iS": 12346,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/cheri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/danwood.jpg": {
 		"ft": 16384,
 		"iS": 0,
@@ -168,6 +179,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/royl.jpeg": {
+		"ft": 16384,
+		"iS": 10590,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/royl.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/unbossed orig colors.png": {
 		"ft": 32768,
 		"iS": 77855,
@@ -199,6 +221,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/images_big/cheri.jpg": {
+		"ft": 16384,
+		"iS": 281185,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/cheri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/images_big/danwood.jpg": {
@@ -251,6 +284,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images_big/rabia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images_big/royl.jpeg": {
+		"ft": 16384,
+		"iS": 26231,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/royl.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
