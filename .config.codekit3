@@ -34,6 +34,13 @@
 		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
+	"/build/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -54,14 +61,14 @@
 	"/css/main.scss": {
 		"aP": 0,
 		"bl": 0,
-		"dP": 10,
+		"dP": 2,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "/css/main.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/css/normalize.css": {
@@ -71,16 +78,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/normalize-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/css/normalize.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/normalize.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -99,7 +96,7 @@
 		"oAP": "/images/AD18_Map.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/ad18map2.jpg": {
@@ -110,7 +107,7 @@
 		"oAP": "/images/ad18map2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/cheri.jpg": {
@@ -121,7 +118,7 @@
 		"oAP": "/images/cheri.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/danwood.jpg": {
@@ -132,7 +129,7 @@
 		"oAP": "/images/danwood.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/lisa.jpg": {
@@ -143,7 +140,7 @@
 		"oAP": "/images/lisa.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/michael_fortes.jpg": {
@@ -154,7 +151,7 @@
 		"oAP": "/images/michael_fortes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mlacabe.jpg": {
@@ -165,7 +162,7 @@
 		"oAP": "/images/mlacabe.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/rabia.jpg": {
@@ -176,7 +173,7 @@
 		"oAP": "/images/rabia.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/royl.jpg": {
@@ -187,7 +184,7 @@
 		"oAP": "/images/royl.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/unbossed orig colors.png": {
@@ -196,8 +193,8 @@
 		"oA": 0,
 		"oAP": "/images/unbossed orig colors.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -207,8 +204,8 @@
 		"oA": 0,
 		"oAP": "/images/unbossed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -218,8 +215,8 @@
 		"oA": 0,
 		"oAP": "/images/unbossed400.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -231,7 +228,7 @@
 		"oAP": "/images_big/cheri.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/danwood.jpg": {
@@ -242,7 +239,7 @@
 		"oAP": "/images_big/danwood.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/lisa.jpg": {
@@ -253,7 +250,7 @@
 		"oAP": "/images_big/lisa.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/michael_fortes.jpg": {
@@ -264,7 +261,7 @@
 		"oAP": "/images_big/michael_fortes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/mlacabe.jpg": {
@@ -275,7 +272,7 @@
 		"oAP": "/images_big/mlacabe.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/rabia.jpg": {
@@ -286,7 +283,7 @@
 		"oAP": "/images_big/rabia.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/royl.jpg": {
@@ -297,7 +294,7 @@
 		"oAP": "/images_big/royl.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {
@@ -309,33 +306,40 @@
 		},
 	"/js/googlemapsv3.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/min/googlemapsv3-min.js",
+		"oAP": "/js/googlemapsv3-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"/js/main.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/min/main-min.js",
+		"oAP": "/js/main-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"/js/vendor/html5-3.6-respond-1.4.2.min.js": {
 		"ft": 64,
-		"ma": 0,
+		"ma": 1,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/vendor/min/html5-3.6-respond-1.4.2.min-min.js",
+		"oAP": "/js/vendor/html5-3.6-respond-1.4.2.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,
@@ -394,7 +398,8 @@
 	"displayValue": "groundswell",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/apple-touch-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 567199737.984056
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1801,7 +1806,7 @@
 	"esLintSourceType": 0,
 	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
-	"hideConfigFile": 0,
+	"hideConfigFile": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
@@ -2215,8 +2220,8 @@
 		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0
@@ -2306,8 +2311,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"outputStyle": 1,
+		"shouldRunCacheBuster": 1
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2315,11 +2320,11 @@
 		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"outputStyle": 0,
+		"decimalPrecision": 2,
+		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
