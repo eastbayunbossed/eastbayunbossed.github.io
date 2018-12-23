@@ -110,6 +110,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/austin.jpg": {
+		"ft": 16384,
+		"iS": 5544,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/austin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/cheri.jpg": {
 		"ft": 16384,
 		"iS": 12346,
@@ -218,6 +229,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/images_big/austin.jpg": {
+		"ft": 16384,
+		"iS": 156649,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/austin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/images_big/cheri.jpg": {
