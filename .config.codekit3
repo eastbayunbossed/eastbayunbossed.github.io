@@ -154,12 +154,34 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/groundswell.jpg": {
+		"ft": 16384,
+		"iS": 7662,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/groundswell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/kiisha.jpg": {
 		"ft": 16384,
 		"iS": 14981,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/kiisha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/lily.jpg": {
+		"ft": 16384,
+		"iS": 16514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/lily.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -325,6 +347,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images_big/kiisha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images_big/lily.jpg": {
+		"ft": 16384,
+		"iS": 76304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/lily.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
