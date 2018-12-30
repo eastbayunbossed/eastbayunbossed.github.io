@@ -198,6 +198,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/matt.jpg": {
+		"ft": 16384,
+		"iS": 13587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/matt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/michael_fortes.jpg": {
 		"ft": 16384,
 		"iS": 0,
@@ -316,7 +327,7 @@
 		"oAP": "/images_big/austin.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/cheri.jpg": {
@@ -349,7 +360,7 @@
 		"oAP": "/images_big/kiisha.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/lily.jpg": {
@@ -360,7 +371,7 @@
 		"oAP": "/images_big/lily.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/lisa.jpg": {
@@ -372,6 +383,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/images_big/matt.jpg": {
+		"ft": 16384,
+		"iS": 19063,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/matt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/images_big/michael_fortes.jpg": {
@@ -404,7 +426,7 @@
 		"oAP": "/images_big/nestor.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/nina.jpg": {
