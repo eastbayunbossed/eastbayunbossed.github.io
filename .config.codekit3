@@ -41,6 +41,13 @@
 		"oAP": "/build/.gitignore",
 		"oF": 0
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -253,6 +260,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/rabia.jpg": {
+		"ft": 16384,
+		"iS": 7689,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/rabia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/images/royl.jpg": {
 		"ft": 16384,
 		"iS": 10590,
@@ -427,6 +445,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images_big/rabia.jpg": {
+		"ft": 16384,
+		"iS": 49060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images_big/rabia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images_big/royl.jpg": {
