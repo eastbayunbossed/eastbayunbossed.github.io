@@ -319,6 +319,9 @@ dd { 	min-height:17em;		// Hack, to try to keep items lined up side by side.
 		width: 1026px; /* 1140px - 10% for margins */
 		margin: 0 auto;
 	}
+	p {
+		max-width:55em;
+	}
 }
 
 /* ==========================================================================

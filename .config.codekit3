@@ -538,6 +538,13 @@
 		"oAP": "/slate.html",
 		"oF": 0
 		},
+	"/statements.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/statements.html",
+		"oF": 0
+		},
 	"/tile-wide.png": {
 		"ft": 32768,
 		"iS": 1854,
