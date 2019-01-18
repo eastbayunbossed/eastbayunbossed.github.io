@@ -161,6 +161,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/Facebook.png": {
+		"ft": 32768,
+		"iS": 985,
+		"oA": 0,
+		"oAP": "/images/Facebook.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/groundswell.jpg": {
 		"ft": 16384,
 		"iS": 7662,
@@ -170,6 +181,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images/Instagram.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 0,
+		"oAP": "/images/Instagram.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/images/kiisha.jpg": {
@@ -192,6 +214,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images/Linkedin.png": {
+		"ft": 32768,
+		"iS": 1117,
+		"oA": 0,
+		"oAP": "/images/Linkedin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/images/lisa.jpg": {
@@ -282,6 +315,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/Twitter.png": {
+		"ft": 32768,
+		"iS": 1131,
+		"oA": 0,
+		"oAP": "/images/Twitter.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/unbossed orig colors.png": {
 		"ft": 32768,
 		"iS": 77855,
@@ -292,6 +336,24 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/images/Unbossed.jpg": {
+		"ft": 16384,
+		"iS": 444412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/Unbossed.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/Unbossed.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/images/Unbossed.pdf",
+		"oF": 0
 		},
 	"/images/unbossed.png": {
 		"ft": 32768,
