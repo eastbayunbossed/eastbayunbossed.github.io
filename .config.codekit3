@@ -337,17 +337,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/Unbossed.jpg": {
-		"ft": 16384,
-		"iS": 444412,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/Unbossed.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/images/Unbossed.pdf": {
 		"cB": 0,
 		"ft": 8192,
